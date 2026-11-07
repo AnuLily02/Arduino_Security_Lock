@@ -28,11 +28,9 @@ A secure, interactive door-lock prototype built using an Arduino Uno, a 4x4 matr
 ## Circuit Diagram & Simulation Screenshot
 
 ### Circuit Schematic
-*(Upload your circuit schematic image and name it `circuit_schematic.png`)*
 ![Circuit Schematic](image/SS1.png)
 
 ### Prototype Screenshot
-*(Upload your simulator screenshot and name it `tinkercad_screenshot.png`)*
 ![Simulation Screenshot](image/SS2.png)
 
 ---
