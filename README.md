@@ -48,3 +48,4 @@ Make sure to install these libraries via the **Arduino IDE Library Manager** bef
 2. Open the `.ino` file inside the Arduino IDE.
 3. Verify your I2C LCD address (`0x20` or `0x27` depending on your module) and pin configurations.
 4. Upload the code to your Arduino Uno board!
+ 
