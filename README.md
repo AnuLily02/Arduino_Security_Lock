@@ -41,7 +41,7 @@ Make sure to install these libraries via the **Arduino IDE Library Manager** bef
 2. **Servo** (Built-in standard library)
 3. **LiquidCrystal_I2C** (by Frank de Brabander)
 
----
+--- 
 
 ## Code Usage
 1. Clone or download this repository.
